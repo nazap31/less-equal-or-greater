@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\bin\Debug\net6.0\menor-igual-o-mayor.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\bin\Debug\net6.0\menor-igual-o-mayor.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\bin\Debug\net6.0\menor-igual-o-mayor.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\bin\Debug\net6.0\menor-igual-o-mayor.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\bin\Debug\net6.0\menor-igual-o-mayor.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\refint\menor-igual-o-mayor.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\menor-igual-o-mayor.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Tarea 09 menos, igual o mayor\menor-igual-o-mayor\obj\Debug\net6.0\ref\menor-igual-o-mayor.dll
